@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
         GoalManager manager = new GoalManager();
         int choice = 0;
@@ -32,3 +32,6 @@ class Program
         }
     }
 }
+
+
+
