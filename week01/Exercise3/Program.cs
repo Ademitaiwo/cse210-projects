@@ -1,6 +1,6 @@
 using System;
 
-public class HelloWorld
+public class magicNumber
 {
     public static void Main(string[] args)
     {
